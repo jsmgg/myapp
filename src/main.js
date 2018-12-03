@@ -9,6 +9,3 @@ new Vue({
     components: { App },
     template: '<App/>'
 });
-if(window==2){
-
-}
