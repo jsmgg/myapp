@@ -9,7 +9,10 @@ module.exports = {
     'parserOptions': {
         'ecmaVersion': 6
     },
-    "plugins": ["prettier"],
+    'plugins': [
+        'html',
+        'import'
+    ],
     'env': {
         browser: true,
         es6: true
