@@ -9,10 +9,7 @@ module.exports = {
         'prettier'
     ],
     "parserOptions": {
-        "ecmaVersion": 5,
-        "ecmaFeatures":{
-            "jsx":true
-        }
+        "ecmaVersion": 5
     },
     "rules": {
         "indent": [
